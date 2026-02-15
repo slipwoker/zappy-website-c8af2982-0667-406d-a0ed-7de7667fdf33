@@ -1,0 +1,56 @@
+# ndr — Generative Engine Optimization Map
+
+> A צנרת ואינסטלציה business.
+
+---
+
+## Pages
+
+### בית
+https://ndr-c8af2982.zappy5.app
+
+### שירותים
+https://ndr-c8af2982.zappy5.app/services
+
+### אודות
+https://ndr-c8af2982.zappy5.app/about
+
+### צור קשר
+https://ndr-c8af2982.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://ndr-c8af2982.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ndr-c8af2982.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ndr-c8af2982.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ndr
+ndr is a business in the צנרת ואינסטלציה industry.
+
+## Target Audience
+- מנהלי בנייה
+- בעלי מתקנים תעשייתיים
+- יזמי נדל"ן מסחרי
+- מתכנני תשתיות עירוניות
+
+## Industry
+צנרת ואינסטלציה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ndr-c8af2982.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ndr-c8af2982.zappy5.app/robots.txt
